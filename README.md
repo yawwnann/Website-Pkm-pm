@@ -30,7 +30,11 @@ Berikut adalah beberapa cuplikan layar dari website **PKM-PM** ini:
 ![Jadwal Kegiatan](assets/3.png)
 
 ### Halaman Galeri  
+![Galeri](assets/6.png)
+
+### Halaman Kirim Pesan
 ![Galeri](assets/4.png)
+
 
 ---
 
