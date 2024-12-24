@@ -33,7 +33,7 @@ Berikut adalah beberapa cuplikan layar dari website **PKM-PM** ini:
 ![Galeri](assets/6.png)
 
 ### Halaman Kirim Pesan
-![Galeri](assets/4.png)
+![Galeri](assets/4-2.png)
 
 
 ---
