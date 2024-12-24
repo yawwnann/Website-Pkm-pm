@@ -53,8 +53,3 @@ git clone https://github.com/username/website-pkm-pm.git
 # Masuk ke folder proyek
 cd website-pkm-pm
 
-# Jika menggunakan dependensi, instal dengan:
-npm install
-
-# Jalankan server
-npm start
